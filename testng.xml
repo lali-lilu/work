@@ -1,0 +1,22 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Automation Suite" thread-count="2" parallel="tests">
+    <test name="Zoomer" parallel="tests" >
+        <classes>
+            <class name="Zoomer.HomePageTest"/>
+        </classes>
+    </test>
+
+    <test name="other" parallel="tests" >
+    <classes>
+        <class name="Zoomer.ProdactPageTest"/>
+    </classes>
+    </test>
+
+    <test name="other1" parallel="tests" >
+        <classes>
+            <class name="Zoomer.NavigationPageTest"/>
+        </classes>
+    </test>
+
+</suite>

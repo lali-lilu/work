@@ -1,0 +1,1 @@
+{"uuid":"79f87a02-2505-4d3e-91da-c70c51a37fcc","name":"Lastprojecttest","children":["d9df2426-0f46-4a5c-be98-dc9445132c18"],"befores":[{"name":"Openchrom","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1668187927566,"stop":1668187927587}],"afters":[],"start":1668187927528,"stop":1668187950338}
